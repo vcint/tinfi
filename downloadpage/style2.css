@@ -27,6 +27,7 @@ h1{
     font-family: "Montserrat";
     font-size: 5rem;
     line-height: 3;
+    padding-bottom:1rem;
     
 }
 h2{
@@ -80,6 +81,8 @@ p{
     .tt1{
         text-align: center;
         padding-top: 11%;
+        line-height:3;
+        padding-bottom:3rem;
     }
 
     .tt2{
